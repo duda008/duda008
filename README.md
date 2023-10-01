@@ -2,9 +2,9 @@
 
 
 
--Meu nome é Maria Eduarda N.😝
+-Meu nome é Maria Eduarda Nishioka 
 
--Estou estudando na Alura, sou da turma 1°C
+-Estou estudando na Alura, sou do 1°C
 
 -Estou me desenvolvendo na linguagem JavaScript 
 
